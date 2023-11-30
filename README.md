@@ -1,3 +1,3 @@
-# hey! sVsauce
+# svenja.dev
 ---
-svenja here
+hey sVsauce, svenja here
